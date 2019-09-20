@@ -1,0 +1,779 @@
+c:\users\it\documents\visual studio 2010\Projects\Points Pending Supplier\Points Pending Supplier\bin\Points Pending Supplier.dll
+c:\users\it\documents\visual studio 2010\Projects\Points Pending Supplier\Points Pending Supplier\bin\Points Pending Supplier.pdb
+c:\users\it\documents\visual studio 2010\Projects\Points Pending Supplier\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+c:\users\it\documents\visual studio 2010\Projects\Points Pending Supplier\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\Points Pending Supplier\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\Points Pending Supplier\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\Points Pending Supplier\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\Points Pending Supplier\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+W:\test\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+W:\test\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+W:\test\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+W:\test\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+D:\CSK\BackUp\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+W:\test\PPS\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\Project\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+W:\test\PPS\PPS NEW\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\Project\PPS NEW\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+W:\Software\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+F:\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+W:\Software\CSK\W\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.pdb
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojResolveAssemblyReference.cache
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.dll
+D:\CSK\New folder\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.pdb
+D:\CSK\PPS with Pop Up window\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Points Pending Supplier.dll.config
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_5sfw3rsi.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\App_Web_agosnryj.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\itextsharp.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\HtmlAgilityPack.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\AjaxMin.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.mshtml.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\AjaxControlToolkit.pdb
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Spire.License.xml
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Spire.Pdf.xml
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.WindowsAzure.Storage.xml
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.OData.xml
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\Microsoft.Data.Edm.xml
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\System.Spatial.xml
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ar\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\cs\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\de\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\es\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\fr\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\he\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\hi\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\it\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ja\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ko\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\nl\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\pl\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\pt\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ru\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\de\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\es\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\it\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\de\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\es\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\fr\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\it\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ja\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ko\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\ru\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hans\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\bin\zh-Hant\System.Spatial.resources.dll
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csprojAssemblyReference.cache
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csproj.CoreCompileInputs.cache
+D:\CSK\Points Pending Supplier1\Points Pending Supplier\obj\Debug\Points Pending Supplier.csproj.CopyComplete
